@@ -1,6 +1,7 @@
-# travel_now
+# Start Adventure
 
-A new Flutter application.
+Escape every day life, experience a different culture, have an epic adventure and make friends and memories that last a lifetime on one of our awesome group tours.
+With This app you can make your dream real.
 
 ## Getting Started
 
