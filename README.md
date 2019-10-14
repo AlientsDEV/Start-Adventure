@@ -6,13 +6,19 @@ With This app you can make your dream real.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/56515652/66760144-c85a0980-eea1-11e9-835b-2964b23ed911.png" 
+       width=300 hspace="20"/> 
+   <p style="padding-top: 5cm"></p>
+   
+  <img src="https://user-images.githubusercontent.com/56515652/66760196-e45dab00-eea1-11e9-8abc-7377da4222ac.png"
+       width=300 hspace="20"/>
+        <p style="padding-top: 5cm"></p>
+  
+  <img src="https://user-images.githubusercontent.com/56515652/66760254-01927980-eea2-11e9-806a-e799a8421289.png" 
+       width=300 hspace="10"/>
+        <p style="padding-top: 5cm"></p>
+  
+  <img src="https://user-images.githubusercontent.com/56515652/66760359-3acae980-eea2-11e9-9529-2a69a33560da.png" 
+       width=300 hspace="10"/>      
+</p>
