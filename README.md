@@ -8,7 +8,7 @@ With This app you can make your dream real.
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/56515652/66760144-c85a0980-eea1-11e9-835b-2964b23ed911.png" 
-       width=300 hspace="20"/> 
+       width=300 hspace="20"  class="center"/> 
    <p style="padding-top: 5cm"></p>
    
   <img src="https://user-images.githubusercontent.com/56515652/66760196-e45dab00-eea1-11e9-8abc-7377da4222ac.png"
